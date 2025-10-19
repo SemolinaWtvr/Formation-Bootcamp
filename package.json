@@ -1,0 +1,28 @@
+{
+  "name": "formation-bootcamp",
+  "version": "1.0.0",
+  "description": "Bootcamp",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/index.js",
+    "dev": "nodemon --env-file=.env src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemolinaWtvr/Formation-Bootcamp.git"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemolinaWtvr/Formation-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/SemolinaWtvr/Formation-Bootcamp#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
