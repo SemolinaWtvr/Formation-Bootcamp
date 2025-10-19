@@ -8,3 +8,12 @@ function coucou() {
 
 
 showBall(); //fct pour afficher la boule :) 
+
+function rebond () {
+
+if (x + radius > canvas.width) {
+x = canvas.width - radius; 
+}
+
+}
+
