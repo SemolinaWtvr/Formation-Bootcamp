@@ -1,10 +1,4 @@
 function hello () {
-    
-
-
-
-
-
     let bob = document.createElement('p');
     document.body.append(bob);
 

@@ -34,6 +34,7 @@
 
 #ball {
     position: fixed;
+    top: 20vw;
 
     width: 100px;
     height: 100px;
