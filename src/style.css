@@ -10,6 +10,7 @@
     text-align: center;
     width:60vw; 
     height:38vw;
+
 }
 
 #Titre {
@@ -28,3 +29,5 @@
 #leFameuxBob:hover {
     left: 100vw;
 }
+
+
