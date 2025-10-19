@@ -20,8 +20,19 @@
     position: fixed;
     left: 1vw;
     transition: linear 10s;
+    user-select: none;
 }
 
 #leFameuxBob:hover {
     left: 100vw;
+}
+
+#ball {
+    position: fixed;
+
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border-radius: 50%;
+    border: solid 3px;
 }
