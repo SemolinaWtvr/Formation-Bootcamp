@@ -6,3 +6,4 @@ window.addEventListener("load", coucou);
 function coucou() {
     hello();
 }
+
